@@ -30,7 +30,7 @@ Thereafter, you can run the project using Docker or locally with Python (3.9+).
 ### A. Using Docker
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/holyd28/singapore-dengue-forecasting.git
+git clone https://github.com/holyd28/Singapore-Dengue-Forecast.git
 cd singapore-dengue-forecasting
 ```
 
